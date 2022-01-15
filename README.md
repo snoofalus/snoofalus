@@ -1,5 +1,5 @@
 # Hello 👋
-![](https://wallhaven.cc/w/wq56px)
+![](https://w.wallhaven.cc/full/wq/wallhaven-wq56px.jpg)
 My name is Torjus and I'm a Machine Learning developer and Data scientist. I'm currently working on deploying infograpic web dashboards on heroku using Python's Plotly and Dash, as well as visualizing my findings in Jupyter Notebooks.
 Thanks for visiting my profile.
 
