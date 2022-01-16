@@ -1,6 +1,6 @@
 # Hello 👋
 ![header image](https://w.wallhaven.cc/full/wq/wallhaven-wq56px.jpg)
-My name is Torjus and I'm a Machine Learning developer and Data scientist. 
+My name is Torjus and I'm a Machine Learning developer and Data scientist.  
 Read below to see some of my current projects and a collection of technologies I enjoy using.
 
 ## :open_book: Current Projects 
