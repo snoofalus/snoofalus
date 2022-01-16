@@ -2,7 +2,7 @@
 ![header image](https://w.wallhaven.cc/full/wq/wallhaven-wq56px.jpg)
 My name is Torjus and I'm a Machine Learning developer and Data scientist.
 
-## Current Projects 
+## :open_book: Current Projects 
 - Deploying infograpic web dashboards on heroku using Python's Plotly and Dash
 - Visualizing some of my findings in Jupyter Notebooks
 - [Project Euler](https://github.com/snoofalus/project_euler): "A series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve"
