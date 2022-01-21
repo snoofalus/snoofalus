@@ -6,7 +6,7 @@ Read below to see some of my current projects and a collection of technologies I
 ## :open_book: Current Projects 
 - [Web App Dashboards](https://plotly.com/dash/): Deploying infograpic web dashboards on heroku using Python's Plotly and Dash
 - [Jupyter](https://jupyter.org/): Visualizing some of my findings in Jupyter Notebooks
-- [Project Euler](https://github.com/snoofalus/project_euler): "A series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve"
+- [Project Euler](https://github.com/torjusn/project_euler): "A series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve"
 
 ## 🔧 Technologies & Tools
 <div align="center">
