@@ -20,7 +20,7 @@ Read below to see some of my current projects and a collection of technologies I
   <a href="">![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
   <a href="">![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
   <a href="">![r](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-  <a href="">![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  <a href="">![postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   <a href="">![latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
   
 </div>
