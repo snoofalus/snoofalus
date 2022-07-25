@@ -12,6 +12,7 @@ Read below to see some of my current projects and a collection of technologies I
 Show your own interest badges [here](https://github.com/Ileriayo/markdown-badges)
 <div align="center">
 
+  <a href="">![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
   <a href="">![postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   <a href="">![archlinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
   <a href="">![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
