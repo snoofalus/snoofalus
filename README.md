@@ -9,7 +9,7 @@ Read below to see some of my current projects and a collection of technologies I
 - [Project Euler](https://github.com/torjusn/project_euler): "A series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve"
 
 ## 🔧 Technologies & Tools
-Show your own interest badges [here](https://github.com/Ileriayo/markdown-badges)
+Get your own interest badges [here](https://github.com/Ileriayo/markdown-badges).
 <div align="center">
 
   <a href="">![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
