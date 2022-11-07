@@ -6,7 +6,14 @@ Read below to see some of my current projects and a collection of technologies I
 ## :open_book: Current Projects 
 - [Web App Dashboards](https://plotly.com/dash/): Deploying infograpic web dashboards on heroku using Python's Plotly and Dash
 - [Jupyter](https://jupyter.org/): Visualizing some of my findings in Jupyter Notebooks
+
+
+## :snail: On Hold
 - [Project Euler](https://github.com/torjusn/project_euler): "A series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve"
+
+## :white_check_mark: Completed projects
+- [Nordic Stock Screener](https://github.com/torjusn/nordic_screener): Weekend project using Yahoo Finance API to download metrics and rating each stock in the nordic markets by a composite metrics inspired by the book "The little book that beats the market".
+- [Intro to classification](https://github.com/torjusn/intro_to_classification): A favor to a friend with a dataset but no background in ML.
 
 ## 🔧 Technologies & Tools
 Show off your own interests [here](https://github.com/Ileriayo/markdown-badges).
