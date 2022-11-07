@@ -3,7 +3,8 @@
 My name is Torjus and I'm currently working as a Machine Learning Dev and Data scientist.  
 Read below to see some of my current projects and a collection of technologies I enjoy using.
 
-## :open_book: Current Projects 
+## :open_book: Current Projects
+- [Stock crawler and screener](https://github.com/torjusn/stock_crawler_and_screener): A larger version of [nordic screener](https://github.com/torjusn/nordic_screener) intended for gathering daily OHLC data for all NASDAQ stocks and quarterly metrics. This is saved to a Database and can then be shown in BI tools or used in ML modeling. Intended for Dockerized containers running in cloud (Linode or Azure).
 - [Web App Dashboards](https://plotly.com/dash/): Deploying infograpic web dashboards on heroku using Python's Plotly and Dash
 - [Jupyter](https://jupyter.org/): Visualizing some of my findings in Jupyter Notebooks
 
@@ -14,6 +15,7 @@ Read below to see some of my current projects and a collection of technologies I
 ## :white_check_mark: Completed projects
 - [Nordic Stock Screener](https://github.com/torjusn/nordic_screener): Weekend project using Yahoo Finance API to download metrics and rating each stock in the nordic markets by a composite metrics inspired by the book "The little book that beats the market".
 - [Intro to classification](https://github.com/torjusn/intro_to_classification): A favor to a friend with a dataset but no background in ML.
+- [Graph Fusion MBO](https://github.com/torjusn/intro_to_classification): An unofficial python extension of "A Graph-Based Approach for Data Fusion and Segmentation of Multimodal Images" used during my master's thesis. 
 
 ## 🔧 Technologies & Tools
 Show off your own interests [here](https://github.com/Ileriayo/markdown-badges).
