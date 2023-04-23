@@ -1,5 +1,6 @@
 # Hi, I'm Torjus 👋
 ![header image](https://images.unsplash.com/photo-1592659762303-90081d34b277?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1073&q=80)
+<img src="https://images.unsplash.com/photo-1592659762303-90081d34b277?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1073&q=80" alt="front" width="230" height="300" title="Fronter">
 I'm a Data Scientist in Machine Learning. Some of my current side projects involve programming, study groups and stock-/timeseries analysis. I recently deployed my first homepage in React.js: [adjustai.net](adjustai.net).
 
 ## :open_book: Current Projects
