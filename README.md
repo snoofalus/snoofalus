@@ -1,7 +1,6 @@
-# Hello 👋
+# Hi, I'm Torjus 👋
 ![header image](https://w.wallhaven.cc/full/wq/wallhaven-wq56px.jpg)
-My name is Torjus and I'm currently working as a Machine Learning Dev and Data scientist.  
-Read below to see some of my current projects and a collection of technologies I enjoy using.
+I'm a Data Scientist in Machine Learning. Some of my current side projects involve programming, study groups and stock-/timeseries analysis. I recently deployed my first webpage in React.js, you can visit it here: [adjustai.net](adjustai.net).
 
 ## :open_book: Current Projects
 - [Stock crawler and screener](https://github.com/torjusn/stock_crawler_and_screener): A larger version of [nordic screener](https://github.com/torjusn/nordic_screener) intended for gathering daily OHLC data for all NASDAQ stocks and quarterly metrics. This is saved to a Database and can then be shown in BI tools or used in ML modeling. Intended for Dockerized containers running in cloud (Linode or Azure).
