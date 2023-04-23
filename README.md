@@ -15,7 +15,7 @@ I'm a Data Scientist in Machine Learning. Some of my current side projects invol
 - [Project Euler](https://github.com/torjusn/project_euler): "A series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve"
 
 ## :white_check_mark: Completed projects
-- [Homepage](adjustai.net): A portfolio page to showcase projects and information regarding study groups. Written in React.js.
+- [Homepage](adjustai.net): A portfolio page to showcase projects and information regarding the ongoing study groups. Written in React.js.
 - [Nordic Stock Screener](https://github.com/torjusn/nordic_screener): Weekend project using Yahoo Finance API to download metrics and rating each stock in the nordic markets by a composite metrics inspired by the book "The little book that beats the market".
 - [Intro to classification](https://github.com/torjusn/intro_to_classification): A favor to a friend with a dataset but no background in ML.
 - [Graph Fusion MBO](https://github.com/torjusn/intro_to_classification): An unofficial python extension of "A Graph-Based Approach for Data Fusion and Segmentation of Multimodal Images" used during my master's thesis. 
