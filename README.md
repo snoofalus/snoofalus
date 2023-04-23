@@ -4,7 +4,7 @@ I'm a Data Scientist in Machine Learning. Some of my current side projects invol
 
 ## :open_book: Current Projects
 - [Stock crawler and screener](https://github.com/torjusn/stock_crawler_and_screener): A larger version of [nordic screener](https://github.com/torjusn/nordic_screener) intended for gathering daily OHLC data for all NASDAQ stocks and quarterly metrics. This is saved to a Database and can then be shown in BI tools or used in ML modeling. Intended for Dockerized containers running in cloud (Linode or Azure).
-- Study groups]: We hold bi-weekly study groups where post-graduate friends from M.Sc's and Ph.D's in Math and scientific fields take turns to present a topic, project or research paper.
+- Study groups: We hold bi-weekly study groups where post-graduate friends from M.Sc's and Ph.D's in Math and scientific fields take turns to present a topic, project or research paper.
 - [Jupyter](https://jupyter.org/): Visualizing some of my findings in Jupyter Notebooks
 
 
