@@ -1,10 +1,10 @@
 # Hi, I'm Torjus 👋
 ![header image](https://images.unsplash.com/photo-1592659762303-90081d34b277?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1073&q=80)
-I'm a Data Scientist in Machine Learning. Some of my current side projects involve programming, study groups and stock-/timeseries analysis. I recently deployed my first webpage in React.js, you can visit it here: [adjustai.net](adjustai.net).
+I'm a Data Scientist in Machine Learning. Some of my current side projects involve programming, study groups and stock-/timeseries analysis. I recently deployed my first homepage in React.js: [adjustai.net](adjustai.net).
 
 ## :open_book: Current Projects
 - [Stock crawler and screener](https://github.com/torjusn/stock_crawler_and_screener): A larger version of [nordic screener](https://github.com/torjusn/nordic_screener) intended for gathering daily OHLC data for all NASDAQ stocks and quarterly metrics. This is saved to a Database and can then be shown in BI tools or used in ML modeling. Intended for Dockerized containers running in cloud (Linode or Azure).
-- [Web App Dashboards](https://plotly.com/dash/): Deploying infograpic web dashboards on heroku using Python's Plotly and Dash
+- Study groups]: We hold bi-weekly study groups where post-graduate friends from M.Sc's and Ph.D's in Math and scientific fields take turns to present a topic, project or research paper.
 - [Jupyter](https://jupyter.org/): Visualizing some of my findings in Jupyter Notebooks
 
 
