@@ -13,4 +13,6 @@
 <p/>
 <br/> 
 
-I'm a Data Scientist in Machine Learning. Some of my current side projects involve programming, study groups and stock-/timeseries analysis. 
+* Working as a Data Scientist in Machine Learning.
+* Open to collaborating on interesting projects.
+* Some of my current side projects involve programming, study groups and stock-/timeseries analysis. 
