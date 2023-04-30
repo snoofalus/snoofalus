@@ -1,7 +1,17 @@
 # Hi, I'm Torjus 👋
+
 <p align="center">
-<img src="https://images.unsplash.com/photo-1592659762303-90081d34b277?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1073&q=80" width="691" height="520" title="Fronter">  
-</p>
+<a href="https://adjustai.net">
+    <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=flat-square">
+</a>  
+<a href="https://www.linkedin.com/in/konstantinos-georgiou/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:torjus.tech@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+<p/>
+<br/> 
 
 I'm a Data Scientist in Machine Learning. Some of my current side projects involve programming, study groups and stock-/timeseries analysis. I recently deployed my first homepage in React.js: [adjustai.net](https://adjustai.net/).
 
