@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://adjustai.net">
-    <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=flat-square">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
 </a>  
 <a href="https://www.linkedin.com/in/konstantinos-georgiou/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
